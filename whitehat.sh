@@ -35,7 +35,7 @@ done
 
 cat output.txt
 echo "
-Harvesting is complete.Open output.txt file to view email address.
+WhiteHat is complete.Open output.txt file to view email address.
 "
 fi
 
