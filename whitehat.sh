@@ -1,9 +1,9 @@
 #!/usr/bin/env bash 
 
-#E-Harvester is simple script to harvest email address for penetration testing.
+#Whitehat is simple script to harvest email address for penetration testing.
 #Script is working in two mode
 #In first mode you have to create sitemap manually. You can use (http://www.xml-sitemaps.com/) to create sitemap.
-#and put sitemap text file in working directory of E-HARVESTING.Give name it to urllist.txt
+#and put sitemap text file in working directory of Whitehat.Give name it to urllist.txt
 #Second mode is automatic just specify domain name & it will first crawl website ;then harvest email address ;But it`s slow due to crawling process.
 
 echo "
