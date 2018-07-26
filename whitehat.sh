@@ -6,14 +6,6 @@
 #and put sitemap text file in working directory of Whitehat.Give name it to urllist.txt
 #Second mode is automatic just specify domain name & it will first crawl website ;then harvest email address ;But it`s slow due to crawling process.
 
-echo "
-__        ___     _ _       _   _       _   
-\ \      / / |__ (_) |_ ___| | | | __ _| |_ 
- \ \ /\ / /| '_ \| | __/ _ \ |_| |/ _` | __|
-  \ V  V / | | | | | ||  __/  _  | (_| | |_ 
-   \_/\_/  |_| |_|_|\__\___|_| |_|\__,_|\__|
-                                                                         
-"
 echo "Please choose method"
 
 echo "
